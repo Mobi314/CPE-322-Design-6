@@ -1,4 +1,4 @@
-# CPE-322-Design-VI
+# CPE 322 Design VI
 ## GitHub Repository for CPE-322 Design 6.
 ### Owned by Tahrim Imon. Spring 2022
 
