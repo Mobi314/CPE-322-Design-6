@@ -1,5 +1,4 @@
-# CPE 322 Lab 1-2
-## Lab 1
+# CPE 322 Lab 1
 ### Testing command line arguments using Raspberry Pi
 
 Terminal Commands:
