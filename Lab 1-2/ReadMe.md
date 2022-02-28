@@ -50,7 +50,7 @@ $ ping localhost
 
 $ netstat
 
-(C:\Users\tahri\OneDrive - stevens.edu\Semesters\Semester 6\Design 6 CPE 322\Lab 1-2\1.jpg)
+!(C:\Users\tahri\OneDrive - stevens.edu\Semesters\Semester 6\Design 6 CPE 322\Lab 1-2\1.jpg)
 ()
 ()
 ()
