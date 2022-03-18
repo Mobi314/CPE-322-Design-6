@@ -1,6 +1,6 @@
-Lab 3
+# Lab 3
 
-Installing Python3 + necessary packages to perform the following commands:
+### Installing Python3 + necessary packages to perform the following commands:
 
 $ cd ~/iot
 
