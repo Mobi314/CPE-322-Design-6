@@ -27,7 +27,7 @@ $ python3 battery.py
 
 $ python3 documentstats.py document.txt
 
-Example on Pi:
+Example on Pi (click on image to view in detail):
 
 ![1](https://user-images.githubusercontent.com/68234338/159095949-174fae42-cfbd-4b15-a395-a7feee7de6a0.jpg)
 ![2](https://user-images.githubusercontent.com/68234338/159095950-546ce526-0f4f-4af8-a403-e50d6a61a187.jpg)
