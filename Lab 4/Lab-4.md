@@ -1,8 +1,8 @@
 # Lab 4
 ## Installing and using command arguments for Django & Flask
 
-1:
-Installing Django & Django Rest:
+## 1:
+## Installing Django & Django Rest:
 
 $ pip3 -V
 
@@ -26,8 +26,8 @@ $ sudo pip3 install -U requests
 
 ![3](https://user-images.githubusercontent.com/68234338/159282818-ac08db95-5a3e-4ed9-a1b3-b0edeecd4538.jpg)
 
-2:
-Installing MariaDB Server and Client
+## 2:
+## Installing MariaDB Server and Client
 
 $ sudo apt update **(Pi already updated)**
 
