@@ -29,9 +29,9 @@ $ sudo pip3 install -U requests
 2:
 Installing MariaDB Server and Client
 
-$ sudo apt update **(Pi already updated)
+$ sudo apt update **(Pi already updated)**
 
-$ sudo apt install mariadb-server mariadb-client **(Successfully installed but too long to display)
+$ sudo apt install mariadb-server mariadb-client **(Successfully installed but too long to display)**
 
 $ sudo apt install python3-mysqldb
 
