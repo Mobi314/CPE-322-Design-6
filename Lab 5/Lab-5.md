@@ -4,11 +4,17 @@
 ## 1: Installing Eclipse Mosquitto and Eclipse Paho:
 
 $ sudo apt update
+
 $ sudo apt install mosquitto mosquitto-clients
+
 $ mosquitto_sub -h localhost -v -t "\$SYS/#"
+
 $ service mosquitto status
+
 $ netstat -tln
+
 $ mosquitto_sub -h localhost -v -t test/topic &\
+
 $ mosquitto_pub -h localhost -t test/topic -m "Hello"
  
 ![1](https://user-images.githubusercontent.com/68234338/164990059-bfc656ef-3097-4333-bd31-19eebfc76c85.jpg)
