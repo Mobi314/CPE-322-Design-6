@@ -92,3 +92,9 @@ GDOCS_SPREADSHEET_NAME = 'rpidata'
 Run rpi_spreadsheet.py
 
 $ python3 rpi_spreadsheet.py
+
+![5](https://user-images.githubusercontent.com/68234338/166801406-332877d7-ba7a-4a3b-a4d2-82ef97dd101d.jpg)
+
+![6](https://user-images.githubusercontent.com/68234338/166801407-c354f418-b31d-4093-8bde-81c6a469bd37.jpg)
+
+![7](https://user-images.githubusercontent.com/68234338/166801410-ef0f9f1b-a98b-4969-b674-e22589882d4f.jpg)
