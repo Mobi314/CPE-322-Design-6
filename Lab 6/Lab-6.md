@@ -37,7 +37,7 @@ $ node http.js
 
 ![4](https://user-images.githubusercontent.com/68234338/166612360-67417839-e789-4d98-83ee-a221a53b1c11.jpg)
 
-## 1: Installing Pystache
+## 2: Installing Pystache
 
 $ sudo pip3 install pystache
 
